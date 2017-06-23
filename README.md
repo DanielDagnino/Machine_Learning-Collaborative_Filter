@@ -1,0 +1,1 @@
+This is an exercice to create a collaborative filter. It uses a data base of movie scores for several users and it predicts new user scores for unscored movies. The data bases I have sued is free at http://grouplens.org/datasets/movielens/ and it contains millions of user scores for a large amount of movies.
